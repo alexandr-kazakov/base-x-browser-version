@@ -3,7 +3,7 @@
 // Copyright (c) 2014-2018 The Bitcoin Core developers (base58.cpp)
 // Distributed under the MIT software license, see the accompanying
 // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
-function base(ALPHABET) {
+function baseX(ALPHABET) {
   if (ALPHABET.length >= 255) { throw new TypeError('Alphabet too long'); }
   const BASE_MAP = new Uint8Array(256);
   for (let j = 0; j < BASE_MAP.length; j++) {

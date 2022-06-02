@@ -1,6 +1,6 @@
 {
   "name": "base-x-browser-version",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "base-x browser version",
   "main": "index.js",
   "scripts": {

@@ -2,12 +2,12 @@
 
 1).
 ``` html
-<script src="https://unpkg.com/base-x-browser-version/index.js"></script>
+<script src="https://unpkg.com/base-x-browser-version@latest"></script>
 ```
 
 2).
 ``` javascript
-const bs58 = base('123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz');
+const bs58 = baseX('123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz');
 ```
 
 # Usage
