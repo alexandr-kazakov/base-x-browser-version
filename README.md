@@ -1,8 +1,14 @@
 # Install
 
-1).`<script src="https://unpkg.com/base-x-browser-version@0.1.0/index.js"></script>`
+1).
+``` html
+<script src="https://unpkg.com/base-x-browser-version@0.1.0/index.js"></script>
+```
 
-2).`const bs58 = base('123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz');`
+2).
+``` javascript
+const bs58 = base('123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz');
+```
 
 # Usage
 
