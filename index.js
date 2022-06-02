@@ -117,4 +117,4 @@ function base(ALPHABET) {
     decode,
   };
 }
-export default base;
+

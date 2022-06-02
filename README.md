@@ -2,7 +2,7 @@
 
 1).
 ``` html
-<script src="https://unpkg.com/base-x-browser-version@0.1.0/index.js"></script>
+<script src="https://unpkg.com/base-x-browser-version/index.js"></script>
 ```
 
 2).
